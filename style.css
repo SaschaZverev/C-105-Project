@@ -1,0 +1,35 @@
+body
+{
+  color: white;
+  background: rgb(140, 221, 167);
+}
+
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+  background-color: aqua;
+}
+#camera
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color: rgb(249, 134, 234);
+}
+
+.member
+{
+  position: relative;
+  width: 500px ;
+  height: 20px;
+  margin: 15px auto;
+  background: rgb(129, 190, 225);
+  float: centre;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 1;
+}
